@@ -1,1 +1,1 @@
-Simple CUDA kernel for sum the elements of tow arrays. 
+Simple CUDA kernel that sum the elements of two arrays. 
